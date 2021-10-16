@@ -24,3 +24,15 @@
     (donde dice “x” e “y” en el ejemplo, se debe mostrar el número cargado)
     • Deberán contemplarse los casos de error (división por cero, etc)
     • Documentar todas las funciones
+
+# TP_2
+
+Objetivo:
+
+El objetivo del siguiente trabajo es que el alumno sea capaz de demostrar que puede integrar
+los conocimientos aprendidos hasta la clase 12. Los conocimientos necesarios para la
+realización del TP son los siguientes:
+
+• Manejo de arrays.
+• Manejo de pasaje por referencia.
+• Manejo de estructuras.
